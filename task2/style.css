@@ -1,0 +1,8 @@
+/*Создаем стили для кнопки*/
+button {
+    display: flex;
+    padding: 16px 24px;
+    font-size: 2.5rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(43, 156, 43);
+};
